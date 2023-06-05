@@ -67,7 +67,7 @@ More loyal bank customers exhibit the following characteristics:
 
 Based on the correlation matrix, there is no strong dependency between the indicators. The highest correlations with churn are observed for the number of products (30%) and equity scores (27%). However, this is not sufficient to assert a definite relationship. Male customers are more prone to churn than female customers. Additionally, Yaroslavl exhibits a higher tendency for churn compared to other cities, but the dependency is weak.
 
-Segments
+**Segments**
 
 After a comprehensive data analysis, several highly churn-prone segments (with churn rates exceeding 43% within the segment) can be identified:
 - Males with 3 to 5 products (376 individuals).
